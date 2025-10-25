@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GreenFarm Service Center",
+    "location": "Hyderabad",
+    "contact": "+91 9876543210"
+  },
+  {
+    "name": "AgriCare Hub",
+    "location": "Warangal",
+    "contact": "+91 9123456789"
+  },
+  {
+    "name": "Kisan Seva Center",
+    "location": "Vijayawada",
+    "contact": "+91 9988776655"
+  }
+]
